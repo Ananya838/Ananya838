@@ -51,14 +51,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya838&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: **aniananya586@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 🧠 LeetCode: https://leetcode.com/YOUR-ID
+- 💼 LinkedIn: https://www.linkedin.com/in/ananya-ani-603644377
+- 🧠 LeetCode: https://leetcode.com/Ananya7975
 
 ---
 
