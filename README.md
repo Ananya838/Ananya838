@@ -57,14 +57,6 @@
 - 🔹 **Courier Database Management System**  
   SQL-based system for managing shipments and delivery status.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub](https://img.shields.io/badge/GitHub-Ananya838-black?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-Dynamic-blue?style=for-the-badge)
-
-
 
 ---
 
