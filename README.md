@@ -61,9 +61,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananya838&show_icons=true&theme=tokyonight)
+![GitHub](https://img.shields.io/badge/GitHub-Ananya838-black?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-Dynamic-blue?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya838&layout=compact&theme=tokyonight)
 
 
 ---
