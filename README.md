@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">Computer Science Engineering Student | Aspiring Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/Ananya838">
-    <img src="https://komarev.com/ghpvc/?username=aniananya586&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
