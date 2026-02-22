@@ -6,7 +6,6 @@
 ## 👩‍💻 About Me
 - 🎓 B.E. in Computer Science Engineering (2023–2027)
 - 💻 Interested in **Web Development & Backend Systems**
-- 🌱 Currently learning **MERN Stack & DSA**
 - 🚀 Love building real-world projects and improving daily
 
 ---
